@@ -115,6 +115,11 @@ footer {
         width:100%;
     }
 
+    .mainpage {
+        content: url("../img/mainpage-mobile.jpg");
+        background: #000;
+    }
+
     .header {
         content: url("../img/header-mobile.jpg");
         background: #000;
