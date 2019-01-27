@@ -158,6 +158,18 @@ footer {
         height:70%;
     }
 
+    h1 {
+        font-size:40px;
+    }
+
+    h3 {
+        font-size:25px;
+    }
+
+    p {
+        font-size:22px;
+    }
+
 
 
 }
