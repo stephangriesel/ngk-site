@@ -104,6 +104,14 @@ footer {
 
 }
 
+.social {
+    color:rgb(71, 71, 145);
+    position: fixed;
+    bottom:0;
+    right:0;
+    padding:20px;
+}
+
 @media screen and (max-width: 768px) {
     body {
         margin:0;
@@ -174,6 +182,8 @@ footer {
     p {
         font-size:22px;
     }
+
+    
 
 
 
